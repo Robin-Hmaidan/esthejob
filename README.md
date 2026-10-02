@@ -23,7 +23,7 @@ A live French marketplace that connects beauty and hairdressing salons, coworkin
 
 | | |
 |---|---|
-| **1,500+** commits shipped in 5 months | about 1,500 of the repository's ~1,700 commits |
+| **0 → 1** prototype to live product | lead developer; wrote nearly 90% of the codebase |
 | **79** pages | public marketing/SEO pages, multi-role dashboards, admin back-office |
 | **145** PostgreSQL migrations | schema, Row Level Security policies, database functions |
 | **120+** Playwright end-to-end scenarios | plus custom CI contract checks and post-deploy smoke tests |
